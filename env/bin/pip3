@@ -1,4 +1,4 @@
-#!/home/gabriel/Documents/UNI/24-2/Grafica/MindAR/env/bin/python3
+#!/home/gabriel/Documents/UNI/24-2/Grafica/MindAR/WebXR-demo2/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
